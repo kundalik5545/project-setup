@@ -2,7 +2,7 @@
   "bin": {
     "startcoding": "./index.js"
   },
-  "name": "project-setup",
+  "name": "startcoding",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
