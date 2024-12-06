@@ -1,0 +1,17 @@
+{
+  "bin": {
+    "startcoding": "./index.js"
+  },
+  "name": "project-setup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "your scripts no need"
+  },
+  "author": "kundalik jadhav",
+  "license": "ISC",
+  "description": "Create project with CLI",
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  }
+}

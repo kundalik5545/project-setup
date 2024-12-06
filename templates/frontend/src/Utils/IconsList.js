@@ -1,0 +1,38 @@
+import {
+  Calculator,
+  Car,
+  Coins,
+  Contact,
+  CreditCard,
+  Fuel,
+  Gem,
+  Hospital,
+  Hotel,
+  IndianRupee,
+  Landmark,
+  LandPlot,
+  PiggyBank,
+  Shield,
+  Siren,
+  User,
+} from "lucide-react";
+
+// Export icons as an object where the key is the icon name, and the value is the component
+export const iconsList = {
+  IndianRupee,
+  PiggyBank,
+  Landmark,
+  User,
+  CreditCard,
+  Shield,
+  Hospital,
+  Car,
+  Fuel,
+  Hotel,
+  Gem,
+  Coins,
+  Calculator,
+  LandPlot,
+  Contact,
+  Siren,
+};
