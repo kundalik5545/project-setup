@@ -18,4 +18,24 @@ npm install
 npm link
 ```
 
-## Generate or _starproject_ new project
+## Create a new project
+
+## Run command startcoding
+
+```
+startcoding
+```
+
+## Enter details
+
+## move to new project file
+
+```
+cd client
+```
+
+## Now run 
+
+```
+npm i
+```
